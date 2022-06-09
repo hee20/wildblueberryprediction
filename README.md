@@ -1,4 +1,4 @@
-# Wild Blueberry Yield Prediction
+
 
 - Predicting Wild Blueberry Yield using streamlit and deploying application on Heroku. 
 - Link to Kaggle Notebook: https://www.kaggle.com/code/sadiaanzum/wild-blueberry-yield-prediction 
